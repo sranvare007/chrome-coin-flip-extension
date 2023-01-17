@@ -1,4 +1,6 @@
 function tossCoin() {
+  const audio = new Audio("./coin-flip.mp3");
+  audio.play();
   var coinContainer = document.getElementById("coin-container");
   document.querySelector(".result-text").innerHTML = "";
   coinContainer.classList.add("coin-animation-class");
