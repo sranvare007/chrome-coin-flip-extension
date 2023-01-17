@@ -1,0 +1,11 @@
+{
+  "name": "Coin Toss",
+  "version": "1.0.0",
+  "description": "Toss a coin.",
+  "manifest_version": 3,
+  "author": "Suraj Ranvatr",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Toss a coin."
+  }
+}
