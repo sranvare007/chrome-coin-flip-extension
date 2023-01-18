@@ -7,5 +7,11 @@
   "action": {
     "default_popup": "index.html",
     "default_title": "Toss a coin."
+  },
+  "icons": {
+    "16": "./indian-rupee-coin.png",
+    "32": "./indian-rupee-coin.png",
+    "48": "./indian-rupee-coin.png",
+    "128": "/indian-rupee-coin.png"
   }
 }
